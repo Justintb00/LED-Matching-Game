@@ -6,5 +6,5 @@ Regardless, the alternative for this course was a Virtual Arduino Project using 
 
 Though not perfect, I was quite confident with the way it turned out. The code functions fairly well and progressively get's more difficult. Attached are links to my blog and the video presentation we did for the class.
 
-Link to Blog: https://infotech295coivd19.wordpress.com/
+Link to Blog: https://infotech295coivd19.wordpress.com/ <br />
 Link to Video: https://www.youtube.com/watch?v=WxfD5TnnsOE&feature=youtu.be
